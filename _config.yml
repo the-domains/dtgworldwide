@@ -1,28 +1,40 @@
-name: dtgworldwide
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.15009
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: dtgworldwide
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#0000ff'
-    - '#008080'
-    - '#000000'
-    - '#00ffff'
-    - '#c2d4e4'
+  saturation: 0.8149731068406254
   brandStrength: 0.943680825876072
   lightness: 0.6586065895389766
-  saturation: 0.8149731068406254
+  brandColors:
+    - '#FEFEFE'
+    - '#5798C5'
+    - '#595959'
+    - '#2A2A2B'
+    - '#C7D9E8'
   rhythmicContrast: 0.1249763818923384
-purpose: []
+typography_spectrum: 0.15009
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
