@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dtgworldwide]]></title>
         <description><![CDATA[dtgworldwide]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dtgworldwide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 02:04:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 13:56:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dtgworldwide/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[dtg-logo_jpeg.jpg]]></title>
+            <description><![CDATA[<article><h1>dtg-logo_jpeg.jpg</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b9b0451df5b88fd3f9150220dbdbbb496601bb2.jpg"></article>]]></description>
+            <link>https://www.dropbox.com/s/l5zok1sk8njedc7/dtg-logo_jpeg.jpg?dl=0</link>
+            <guid isPermaLink="false">924a952b-d0cc-4220-98d5-0ab372180966</guid>
+            <pubDate>Fri, 13 May 2016 13:56:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technology to Enable Your Success]]></title>
             <description><![CDATA[<article><h1>Technology to Enable Your Success</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e10aed02-2753-4b5a-8692-b384dff06564.jpg"></article>]]></description>
-            <link>undefinedtechnology-to-enable-your-success/index.html</link>
+            <link>https://thegrid.ai/dtgworldwide/technology-to-enable-your-success/index.html</link>
             <guid isPermaLink="false">17f23ef0-ee04-4d5b-8ff1-6cd403f8b1e9</guid>
             <pubDate>Fri, 06 May 2016 02:03:56 GMT</pubDate>
         </item>
